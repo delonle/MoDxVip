@@ -28,9 +28,9 @@
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/zeeoneofc/Alphab0t11/blob/master/settings.json#L1)
-- Owner name [Here](https://github.com/zeeoneofc/Alphab0t11/blob/master/settings.json#L1)
-- Botname [Here](https://github.com/zeeoneofc/Alphab0t11/blob/master/settings.json#L1)
+- Owner number [Here](https://youtube.com/channel/UCNlDJNOwkvvWkjp-owndrLg)
+- Owner name [Here](Wa.me//+6289523767913)
+- Botname [Here](Wa.me//+62895237679135)
 
 ## `CHANGE DYNO`
 
@@ -39,17 +39,17 @@ Off in web nya
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
+  <a href="https://youtu.be/g3akl2Kwf3Q"><img src="https://l.top4top.io/p_2156r1jc71.jpg" />
 </p>
 
 ## ```HOW TO DEPLOY```
 
-[`Click Here For Tutorial`](https://youtu.be/5HgB__wARjM)<br>
+[`Tutorial Bot WhatsApp`](https://youtube.com/channel/UCNlDJNOwkvvWkjp-owndrLg)<br>
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
+  <a href="https://youtu.be/g3akl2Kwf3Q"><img src="https://i.ibb.co/F7nJmR8/e08bd8383659.jpg" />
 </p>
 
 
@@ -59,14 +59,14 @@ Off in web nya
 
 ## ```GROUP SUPPORT```
 
-- [`Alphabot 1`](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [`Alphabot 2`](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [`Alphabot 3`](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
+- [`Alphabot 1`](https://chat.whatsapp.com/EyEJe36lqX1I1J9WpVmFe6)
+- [`Alphabot 2`](https://chat.whatsapp.com/EyEJe36lqX1I1J9WpVmFe6)
+- [`Alphabot 3`](https://chat.whatsapp.com/EyEJe36lqX1I1J9WpVmFe6)
 
 ## `THANKS TO`
 
-- Allah SWT.
+- MoDz Vip
 - My parents
-- All Friends
+- All Friend Bot
 - All Contributors
 - All Creator Bot
